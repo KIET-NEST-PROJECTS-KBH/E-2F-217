@@ -2,8 +2,6 @@
 This is the Project Nest conducted by the college KIET Kakinada For the Hostlers
 This Project is developed By Flask And Machine Learing Model
 
-markdown
-Copy code
 # House Price Prediction Web App
 
 This is a web application that predicts the price of a house based on square footage, the number of bedrooms, and the location. The prediction is made using a machine learning model.
@@ -34,7 +32,6 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine:
 
-   ```bash
    git clone https://github.com/yourusername/house-price-prediction.git
 Navigate to the project directory:
 
