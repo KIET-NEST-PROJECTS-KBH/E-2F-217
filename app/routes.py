@@ -25,7 +25,7 @@ def index():
         # You can directly use the 'location' variable here
 
         # Assign the adjusted_price to predicted_price
-        predicted_price = f"${base_price:.2f}"
+        predicted_price = f"₹{base_price:.2f}"
 
     return render_template(
         'index.html',
