@@ -1,7 +1,6 @@
 # E-2F-217
 This is the Project Nest conducted by the college KIET Kakinada For the Hostlers
 This Project is developed By Flask And Machine Learing Model
-
 # House Price Prediction Web App
 
 !(![image](https://github.com/KIET-NEST-PROJECTS-KBH/E-2F-217/assets/96018533/f795d628-438a-4649-b907-09d2387fc389)
