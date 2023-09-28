@@ -2,11 +2,11 @@
 This is the Project Nest conducted by the college KIET Kakinada For the Hostlers
 This Project is developed By Flask And Machine Learing Model
 
-markdown
-Copy code
 # House Price Prediction Web App
 
-![App Screenshot](/images/app_screenshot.png)
+!(![image](https://github.com/KIET-NEST-PROJECTS-KBH/E-2F-217/assets/96018533/f795d628-438a-4649-b907-09d2387fc389)
+)
+
 
 ## Overview
 
@@ -19,8 +19,7 @@ This web application predicts house prices based on square footage, the number o
 - [Screenshots](#screenshots)
 - [Customization](#customization)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Setup
 
@@ -30,11 +29,10 @@ To run the web app locally, follow these steps:
 2. Install the required dependencies.
 3. Run the Flask app.
 
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/KIET-NEST-PROJECTS-KBH/E-2F-217/
 Navigate to the project directory:
 
-cd house-price-prediction
+cd frontend
 pip install -r requirements.txt
 python run.py
 The application will start, and you can access it in your web browser at http://localhost:5000.
@@ -50,6 +48,7 @@ Location
 Click the "Predict Price" button to get the predicted price for the house.
 
 The predicted price will be displayed on the page.
+![image](https://github.com/KIET-NEST-PROJECTS-KBH/E-2F-217/assets/96018533/77b99c07-a232-46e8-9eef-61c635680cb6)
 
 Built With
 Python - The programming language used.
