@@ -9,6 +9,10 @@ body {
     overflow: hidden;
 }
 
+.btn-primary{
+    box-shadow: #fff;
+    
+}
 .grainy-background {
     position: absolute;
     width: 100%;
